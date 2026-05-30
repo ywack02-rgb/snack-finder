@@ -7,3 +7,8 @@
 - 자파 케이크 / Jaffa Cakes (영국) — 조사일 2026-05-30
 - 터녹스 티케이크 / Tunnock's Teacake (스코틀랜드) — 조사일 2026-05-30
 - 풀파린도 / Pulparindo (멕시코) — 조사일 2026-05-30
+- Fletcher's Original Corny Dogs (미국) — 조사일 2026-05-30
+- King Cake / 킹 케이크 (미국) — 조사일 2026-05-30
+- Kürtőskalács / 굴뚝 케이크 (헝가리) — 조사일 2026-05-30
+- Wisconsin State Fair Cream Puffs (미국) — 조사일 2026-05-30
+- Chigo Mochi / 치고 모치 (일본) — 조사일 2026-05-30
