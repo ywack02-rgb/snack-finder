@@ -12,3 +12,8 @@
 - Kürtőskalács / 굴뚝 케이크 (헝가리) — 조사일 2026-05-30
 - Wisconsin State Fair Cream Puffs (미국) — 조사일 2026-05-30
 - Chigo Mochi / 치고 모치 (일본) — 조사일 2026-05-30
+- SPAM / 스팸 (미국) — 조사일 2026-05-30
+- Welsh Rarebit / 웰시 레어빗 (영국·웨일즈) — 조사일 2026-05-30
+- Spotted Dick / 스팟티드 딕 (영국) — 조사일 2026-05-30
+- Bubble and Squeak / 버블 앤 스퀴크 (영국) — 조사일 2026-05-30
+- Humble Pie / 험블 파이 (영국) — 조사일 2026-05-30
