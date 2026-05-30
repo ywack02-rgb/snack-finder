@@ -22,3 +22,8 @@
 - 농심 새우깡 / Nongshim Shrimp Crackers (한국) — 조사일 2026-05-30
 - 해태 허니버터칩 / Haitai Honey Butter Chip (한국) — 조사일 2026-05-30
 - 빙그레 메로나 / Binggrae Melona (한국) — 조사일 2026-05-30
+- 프링글스 / Pringles (미국) — 조사일 2026-05-30
+- 맥도날드 프렌치프라이 / McDonald's French Fries (미국) — 조사일 2026-05-30
+- 토마스 잉글리시 머핀 / Thomas' English Muffins (미국) — 조사일 2026-05-30
+- 캐드버리 데어리 밀크 / Cadbury Dairy Milk (영국) — 조사일 2026-05-30
+- 타바스코 / Tabasco (미국) — 조사일 2026-05-30
