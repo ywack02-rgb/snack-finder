@@ -22,3 +22,8 @@
 - 농심 새우깡 / Nongshim Shrimp Crackers (한국) — 조사일 2026-05-30
 - 해태 허니버터칩 / Haitai Honey Butter Chip (한국) — 조사일 2026-05-30
 - 빙그레 메로나 / Binggrae Melona (한국) — 조사일 2026-05-30
+- 맥립 / McRib (미국) — 조사일 2026-05-30
+- 포파이즈 치킨 샌드위치 / Popeyes Chicken Sandwich (미국) — 조사일 2026-05-30
+- 쵸코 타코 / Choco Taco (미국) — 조사일 2026-05-30
+- 트윙키 / Twinkie (미국) — 조사일 2026-05-30
+- 크리스탈 펩시 / Crystal Pepsi (미국) — 조사일 2026-05-30
