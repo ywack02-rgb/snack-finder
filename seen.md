@@ -22,3 +22,8 @@
 - 농심 새우깡 / Nongshim Shrimp Crackers (한국) — 조사일 2026-05-30
 - 해태 허니버터칩 / Haitai Honey Butter Chip (한국) — 조사일 2026-05-30
 - 빙그레 메로나 / Binggrae Melona (한국) — 조사일 2026-05-30
+- 농심 신라면 / Nongshim Shin Ramyun (한국) — 조사일 2026-05-30
+- 캐드버리 데어리 밀크 / Cadbury Dairy Milk (영국) — 조사일 2026-05-30
+- 멕시코 코카콜라 / Mexican Coke (멕시코) — 조사일 2026-05-30
+- 누텔라 / Nutella (이탈리아) — 조사일 2026-05-30
+- 프링글스 / Pringles (미국) — 조사일 2026-05-30
