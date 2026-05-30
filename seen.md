@@ -22,3 +22,8 @@
 - 농심 새우깡 / Nongshim Shrimp Crackers (한국) — 조사일 2026-05-30
 - 해태 허니버터칩 / Haitai Honey Butter Chip (한국) — 조사일 2026-05-30
 - 빙그레 메로나 / Binggrae Melona (한국) — 조사일 2026-05-30
+- 레드불 / Red Bull (오스트리아) — 조사일 2026-05-30
+- 마가린 / Margarine (프랑스·미국) — 조사일 2026-05-30
+- 오틀리 / Oatly (스웨덴) — 조사일 2026-05-30
+- 업사이드 푸드 배양육 / UPSIDE Foods Cultivated Chicken (미국) — 조사일 2026-05-30
+- GT's 콤부차 / GT's Kombucha (미국) — 조사일 2026-05-30
