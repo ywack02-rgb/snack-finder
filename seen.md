@@ -17,3 +17,8 @@
 - Spotted Dick / 스팟티드 딕 (영국) — 조사일 2026-05-30
 - Bubble and Squeak / 버블 앤 스퀴크 (영국) — 조사일 2026-05-30
 - Humble Pie / 험블 파이 (영국) — 조사일 2026-05-30
+- 오리온 초코파이 / Orion Choco Pie (한국) — 조사일 2026-05-30
+- 빙그레 바나나맛 우유 / Binggrae Banana Milk (한국) — 조사일 2026-05-30
+- 농심 새우깡 / Nongshim Shrimp Crackers (한국) — 조사일 2026-05-30
+- 해태 허니버터칩 / Haitai Honey Butter Chip (한국) — 조사일 2026-05-30
+- 빙그레 메로나 / Binggrae Melona (한국) — 조사일 2026-05-30
