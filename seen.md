@@ -17,3 +17,8 @@
 - Spotted Dick / 스팟티드 딕 (영국) — 조사일 2026-05-30
 - Bubble and Squeak / 버블 앤 스퀴크 (영국) — 조사일 2026-05-30
 - Humble Pie / 험블 파이 (영국) — 조사일 2026-05-30
+- 앙고스투라 비터스 / Angostura Bitters (트리니다드) — 조사일 2026-05-30
+- 샤르트뢰즈 / Chartreuse (프랑스) — 조사일 2026-05-30
+- 리 & 페린스 우스터 소스 / Lea & Perrins Worcestershire Sauce (영국) — 조사일 2026-05-30
+- 아이언 브루 / Irn-Bru (스코틀랜드) — 조사일 2026-05-30
+- 예거마이스터 / Jägermeister (독일) — 조사일 2026-05-30
