@@ -22,3 +22,8 @@
 - 농심 새우깡 / Nongshim Shrimp Crackers (한국) — 조사일 2026-05-30
 - 해태 허니버터칩 / Haitai Honey Butter Chip (한국) — 조사일 2026-05-30
 - 빙그레 메로나 / Binggrae Melona (한국) — 조사일 2026-05-30
+- 트윙키 / Twinkie (미국) — 조사일 2026-05-30
+- 젤리 벨리 블루베리 / Jelly Belly Blueberry (미국) — 조사일 2026-05-30
+- 캔디 시가렛·캔디 스틱 / Candy Cigarettes·Candy Sticks (미국·영국) — 조사일 2026-05-30
+- 하리보 골드베어 / Haribo Goldbears (독일) — 조사일 2026-05-30
+- 프리덤 프라이 / Freedom Fries (미국) — 조사일 2026-05-30
