@@ -17,3 +17,8 @@
 - Spotted Dick / 스팟티드 딕 (영국) — 조사일 2026-05-30
 - Bubble and Squeak / 버블 앤 스퀴크 (영국) — 조사일 2026-05-30
 - Humble Pie / 험블 파이 (영국) — 조사일 2026-05-30
+- 줄리어스 프링글 / Julius Pringle (Pringles) (미국) — 조사일 2026-05-30
+- 퀘이커맨 "래리" / Quaker Man (Quaker Oats) (미국) — 조사일 2026-05-30
+- 미스터 피넛 / Mr. Peanut (Planters) (미국) — 조사일 2026-05-30
+- 토니 더 타이거 / Tony the Tiger (Kellogg's) (미국) — 조사일 2026-05-30
+- 페퍼리지 팜 로고 / Pepperidge Farm Logo (미국) — 조사일 2026-05-30
