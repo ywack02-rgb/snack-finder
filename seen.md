@@ -22,3 +22,8 @@
 - 농심 새우깡 / Nongshim Shrimp Crackers (한국) — 조사일 2026-05-30
 - 해태 허니버터칩 / Haitai Honey Butter Chip (한국) — 조사일 2026-05-30
 - 빙그레 메로나 / Binggrae Melona (한국) — 조사일 2026-05-30
+- 에그 베네딕트 / Eggs Benedict (미국) — 조사일 2026-05-30
+- 시저 샐러드 / Caesar Salad (멕시코) — 조사일 2026-05-30
+- 배튼버그 케이크 / Battenberg Cake (영국) — 조사일 2026-05-30
+- 그레이엄 크래커 / Graham Cracker (미국) — 조사일 2026-05-30
+- 월도프 샐러드 / Waldorf Salad (미국) — 조사일 2026-05-30
