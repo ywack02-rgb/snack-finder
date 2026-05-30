@@ -22,3 +22,8 @@
 - 농심 새우깡 / Nongshim Shrimp Crackers (한국) — 조사일 2026-05-30
 - 해태 허니버터칩 / Haitai Honey Butter Chip (한국) — 조사일 2026-05-30
 - 빙그레 메로나 / Binggrae Melona (한국) — 조사일 2026-05-30
+- Kopi Luwak / 코피 루왁 (인도네시아) — 조사일 2026-05-30
+- Saffron / 사프란 (이란) — 조사일 2026-05-30
+- Densuke Watermelon / 덴스케 수박 (일본) — 조사일 2026-05-30
+- Matsutake / 마쓰타케 (일본) — 조사일 2026-05-30
+- Edible Bird's Nest / 제비집 (중국·동남아시아) — 조사일 2026-05-30
