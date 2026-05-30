@@ -22,3 +22,8 @@
 - 농심 새우깡 / Nongshim Shrimp Crackers (한국) — 조사일 2026-05-30
 - 해태 허니버터칩 / Haitai Honey Butter Chip (한국) — 조사일 2026-05-30
 - 빙그레 메로나 / Binggrae Melona (한국) — 조사일 2026-05-30
+- Fix Dessert Chocolatier / 두바이 초콜릿 Can't Get Knafeh of It (아랍에미리트) — 조사일 2026-05-30
+- Crumbl Cookies / 크럼블 쿠키 (미국) — 조사일 2026-05-30
+- True Dates / 트루 데이츠 (덴마크) — 조사일 2026-05-30
+- 美人姫 / 비진히메 딸기 (일본) — 조사일 2026-05-30
+- Graza / 그라자 올리브유 (미국) — 조사일 2026-05-30
