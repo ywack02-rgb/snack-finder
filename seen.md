@@ -22,3 +22,8 @@
 - 농심 새우깡 / Nongshim Shrimp Crackers (한국) — 조사일 2026-05-30
 - 해태 허니버터칩 / Haitai Honey Butter Chip (한국) — 조사일 2026-05-30
 - 빙그레 메로나 / Binggrae Melona (한국) — 조사일 2026-05-30
+- 파인애플 / Pineapple (영국) — 조사일 2026-05-30
+- 바닐라 / Vanilla (레위니옹 섬·멕시코) — 조사일 2026-05-30
+- 브로일러 치킨 / Broiler Chicken (미국) — 조사일 2026-05-30
+- 맨쳇 흰 빵 / Manchet (영국) — 조사일 2026-05-30
+- 아이스크림 / Ice Cream (미국) — 조사일 2026-05-30
