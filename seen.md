@@ -22,3 +22,8 @@
 - 농심 새우깡 / Nongshim Shrimp Crackers (한국) — 조사일 2026-05-30
 - 해태 허니버터칩 / Haitai Honey Butter Chip (한국) — 조사일 2026-05-30
 - 빙그레 메로나 / Binggrae Melona (한국) — 조사일 2026-05-30
+- 캐드버리 크림에그 / Cadbury Creme Egg (영국) — 조사일 2026-05-30
+- 드레스덴 슈톨렌 / Dresdner Stollen (독일) — 조사일 2026-05-30
+- 핫크로스번 / Hot Cross Buns (영국) — 조사일 2026-05-30
+- 파네토네 / Panettone (이탈리아) — 조사일 2026-05-30
+- 뉘른베르거 레프쿠헨 / Nürnberger Lebkuchen (독일) — 조사일 2026-05-30
