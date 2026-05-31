@@ -37,3 +37,13 @@
 - 토블론 영국판 / Toblerone UK (스위스·영국) — 조사일 2026-05-31
 - 켈로그 프룻루프 / Kellogg's Froot Loops (미국·독일) — 조사일 2026-05-31
 - 오레오 영국판 / Oreo UK (미국·영국) — 조사일 2026-05-31
+- 해군 카레 / Kaigun Kare 海軍カレー (일본) — 조사일 2026-05-31
+- SOS 크림 소고기 토스트 / Creamed Chipped Beef on Toast (미국) — 조사일 2026-05-31
+- 건빵 + 별사탕 (한국) — 조사일 2026-05-31
+- 짜파구리 / Chapaguri (한국) — 조사일 2026-05-31
+- 프리즌 스프레드 / Prison Spread (미국) — 조사일 2026-05-31
+- PB&J 샌드위치 / Peanut Butter and Jelly Sandwich (미국) — 조사일 2026-05-31
+- TKG 卵かけご飯 / Tamago Kake Gohan (일본) — 조사일 2026-05-31
+- WWI 트렌치 케이크 / Trench Cake (영국) — 조사일 2026-05-31
+- 빈즈 온 토스트 / Beans on Toast (영국) — 조사일 2026-05-31
+- 안작 비스킷 / Anzac Biscuit (호주·뉴질랜드) — 조사일 2026-05-31
