@@ -27,3 +27,8 @@
 - 쵸코 타코 / Choco Taco (미국) — 조사일 2026-05-30
 - 트윙키 / Twinkie (미국) — 조사일 2026-05-30
 - 크리스탈 펩시 / Crystal Pepsi (미국) — 조사일 2026-05-30
+- 커클랜드 시그니처 커피 / Kirkland Signature Coffee (미국·코스트코×스타벅스) — 조사일 2026-05-31
+- 트레이더 조 / Trader Joe's (미국·알디 노르트 소유) — 조사일 2026-05-31
+- 커클랜드 시그니처 보드카 / Kirkland Signature Vodka (미국) — 조사일 2026-05-31
+- 알디 모저 로스 초콜릿 / Aldi Moser-Roth Chocolate (독일·슈토르크 OEM) — 조사일 2026-05-31
+- 커클랜드 시그니처 건전지 / Kirkland Signature Batteries (미국·듀라셀 OEM) — 조사일 2026-05-31
