@@ -37,3 +37,13 @@
 - 토블론 영국판 / Toblerone UK (스위스·영국) — 조사일 2026-05-31
 - 켈로그 프룻루프 / Kellogg's Froot Loops (미국·독일) — 조사일 2026-05-31
 - 오레오 영국판 / Oreo UK (미국·영국) — 조사일 2026-05-31
+- 잭 인 더 박스 / Jack in the Box (미국) — 조사일 2026-05-31
+- 오드왈라 / Odwalla (미국) — 조사일 2026-05-31
+- 삼양라면 1963 / Samyang Ramen 1963 (한국) — 조사일 2026-05-31
+- 메이플 리프 푸즈 / Maple Leaf Foods (캐나다) — 조사일 2026-05-31
+- 블루 벨 크리머리스 / Blue Bell Creameries (미국) — 조사일 2026-05-31
+- 치폴레 멕시칸 그릴 / Chipotle Mexican Grill (미국) — 조사일 2026-05-31
+- 페리에 / Perrier (프랑스) — 조사일 2026-05-31
+- 피터 팬 땅콩버터 / Peter Pan Peanut Butter (미국) — 조사일 2026-05-31
+- 돌 시금치 / Dole Bagged Spinach (미국) — 조사일 2026-05-31
+- 영국 쇠고기 Quality Standard Mark / British Beef (영국) — 조사일 2026-05-31
