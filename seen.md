@@ -37,3 +37,13 @@
 - 토블론 영국판 / Toblerone UK (스위스·영국) — 조사일 2026-05-31
 - 켈로그 프룻루프 / Kellogg's Froot Loops (미국·독일) — 조사일 2026-05-31
 - 오레오 영국판 / Oreo UK (미국·영국) — 조사일 2026-05-31
+- 하리보 골드베렌 / Haribo Goldbären (독일) — 조사일 2026-06-01
+- 베르터스 오리지날 / Werther's Original (독일) — 조사일 2026-06-01
+- 리츠 크래커 / Ritz Crackers (미국) — 조사일 2026-06-01
+- 맥비티스 다이제스티브 / McVitie's Digestive (영국) — 조사일 2026-06-01
+- 포키 / Pocky (일본) — 조사일 2026-06-01
+- 가리가리군 / Gari-Gari Kun (일본) — 조사일 2026-06-01
+- 해태 부라보콘 / Haitai Bravo Cone (한국) — 조사일 2026-06-01
+- 크라운 죠리퐁 / Crown Joripong (한국) — 조사일 2026-06-01
+- 페즈 / PEZ (오스트리아) — 조사일 2026-06-01
+- 해태 연양갱 / Haitai Soft Red Bean Jelly (한국) — 조사일 2026-06-01
