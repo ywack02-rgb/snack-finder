@@ -47,3 +47,12 @@
 - 크라운 죠리퐁 / Crown Joripong (한국) — 조사일 2026-06-01
 - 페즈 / PEZ (오스트리아) — 조사일 2026-06-01
 - 해태 연양갱 / Haitai Soft Red Bean Jelly (한국) — 조사일 2026-06-01
+- 커클랜드 시그니처 커피 / Kirkland Signature Coffee (미국) — 조사일 2026-06-01
+- 커클랜드 시그니처 보드카 / Kirkland Signature Vodka (미국) — 조사일 2026-06-01
+- 커클랜드 시그니처 와인 / Kirkland Signature Wine (미국) — 조사일 2026-06-01
+- 이마트 노브랜드 감자칩 / No Brand Potato Chip (한국·말레이시아) — 조사일 2026-06-01
+- 월마트 그레이트 밸류 땅콩버터 / Walmart Great Value Peanut Butter (미국) — 조사일 2026-06-01
+- 트레이더 조스 냉동볶음밥 / Trader Joe's Frozen Fried Rice (미국·일본) — 조사일 2026-06-01
+- CU 롯데리아 양념감자 스낵 / CU Lotteria Seasoned Potato Snack (한국) — 조사일 2026-06-01
+- 이마트 PB 떠먹는 요구르트 / Emart PB Yogurt (한국) — 조사일 2026-06-01
+- 알디 코랄레 베이크드빈 / Aldi Corale Baked Beans (독일·영국) — 조사일 2026-06-01
