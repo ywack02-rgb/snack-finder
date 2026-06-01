@@ -47,3 +47,13 @@
 - 크라운 죠리퐁 / Crown Joripong (한국) — 조사일 2026-06-01
 - 페즈 / PEZ (오스트리아) — 조사일 2026-06-01
 - 해태 연양갱 / Haitai Soft Red Bean Jelly (한국) — 조사일 2026-06-01
+- 부대찌개 / Budaejjigae (한국) — 조사일 2026-06-01
+- 짜파구리 / Chapaguri — 짜파게티+너구리 (한국) — 조사일 2026-06-01
+- 뽀글이 / Bboggeuri — 군대 온수 라면 문화 (한국) — 조사일 2026-06-01
+- 타마고카케고항 / Tamago Kake Gohan, TKG (일본) — 조사일 2026-06-01
+- 마복림 신당동 고추장 떡볶이 / Maboklim Tteokbokki (한국) — 조사일 2026-06-01
+- 충무김밥 / Chungmu Gimbap (한국) — 조사일 2026-06-01
+- 스프레드 / Prison Spread (미국) — 조사일 2026-06-01
+- 요코스카 해군 카레 / Yokosuka Kaigun Curry (일본) — 조사일 2026-06-01
+- 멀리건 스튜 / Mulligan Stew (미국) — 조사일 2026-06-01
+- S.O.S. / 크리밍드 칩트 비프 온 토스트 / Shit on a Shingle (미국) — 조사일 2026-06-01
