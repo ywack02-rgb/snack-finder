@@ -67,3 +67,13 @@
 - 브랜스턴 피클 치즈 샌드위치 / Branston Pickle Cheese Sandwich (영국) — 조사일 2026-06-02
 - 큐아라벤 / キャラ弁·Kyaraben (일본) — 조사일 2026-06-02
 - 프루트 롤업 / Fruit Roll-Ups (미국) — 조사일 2026-06-02
+- 엠앤엠즈 / M&M's (미국) — 조사일 2026-06-02
+- 마가린 / Margarine (프랑스) — 조사일 2026-06-02
+- 인스턴트 커피 G. Washington / G. Washington Coffee (미국) — 조사일 2026-06-02
+- 셰프 보야르디 / Chef Boyardee (미국) — 조사일 2026-06-02
+- 마기 부용 큐브 / Maggi Bouillon Cube (스위스) — 조사일 2026-06-02
+- 아페르 통조림 / Nicolas Appert Canned Food (프랑스) — 조사일 2026-06-02
+- 마운틴 하우스 동결건조 / Mountain House Freeze-Dried (미국) — 조사일 2026-06-02
+- 세일러보이 파일럿 브레드 / Sailor Boy Pilot Bread (미국) — 조사일 2026-06-02
+- 카망베르 / Camembert (프랑스) — 조사일 2026-06-02
+- 허쉬 D레이션 / Hershey D-Ration Bar (미국) — 조사일 2026-06-02
