@@ -57,3 +57,13 @@
 - 요코스카 해군 카레 / Yokosuka Kaigun Curry (일본) — 조사일 2026-06-01
 - 멀리건 스튜 / Mulligan Stew (미국) — 조사일 2026-06-01
 - S.O.S. / 크리밍드 칩트 비프 온 토스트 / Shit on a Shingle (미국) — 조사일 2026-06-01
+- 스리라차 소스 / Sriracha — Huy Fong Foods (미국·베트남) — 조사일 2026-06-02
+- 초바니 요거트 / Chobani (미국·터키) — 조사일 2026-06-02
+- 데이브스 킬러 브레드 / Dave's Killer Bread (미국) — 조사일 2026-06-02
+- 더 홀 샤방 / The Whole Shabang (미국 교도소 감자칩) — 조사일 2026-06-02
+- 사라토가 칩스 / Saratoga Chips — George Crum (미국) — 조사일 2026-06-02
+- 고야 푸즈 / Goya Foods (미국·스페인) — 조사일 2026-06-02
+- 프리즌 바스 / Prison Bars (미국) — 조사일 2026-06-02
+- 하겐다즈 / Häagen-Dazs (미국·폴란드계 유대인) — 조사일 2026-06-02
+- 네이선스 페이머스 / Nathan's Famous (미국·폴란드 유대인) — 조사일 2026-06-02
+- 던킨 도너츠 / Dunkin' Donuts (미국) — 조사일 2026-06-02
