@@ -67,3 +67,13 @@
 - 브랜스턴 피클 치즈 샌드위치 / Branston Pickle Cheese Sandwich (영국) — 조사일 2026-06-02
 - 큐아라벤 / キャラ弁·Kyaraben (일본) — 조사일 2026-06-02
 - 프루트 롤업 / Fruit Roll-Ups (미국) — 조사일 2026-06-02
+- 버드바르 / Budějovický Budvar (체코) — 조사일 2026-06-02
+- 피스코 / Pisco (페루·칠레) — 조사일 2026-06-02
+- 크라팅댕 / Krating Daeng (태국) — 조사일 2026-06-02
+- 캘리포니아 샴페인 / California Champagne (미국) — 조사일 2026-06-02
+- 프루센 글라예 / Frusen Glädjé (미국) — 조사일 2026-06-02
+- 페타 치즈 / Feta Cheese (그리스) — 조사일 2026-06-02
+- 파르미지아노 레지아노 / Parmigiano-Reggiano (이탈리아) — 조사일 2026-06-02
+- 테네시 위스키 / Tennessee Whiskey (미국) — 조사일 2026-06-02
+- 코냑 / Cognac (프랑스) — 조사일 2026-06-02
+- 스리라차 언더우드 랜치 / Underwood Ranches Sriracha (미국) — 조사일 2026-06-02
