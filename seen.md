@@ -57,3 +57,13 @@
 - 요코스카 해군 카레 / Yokosuka Kaigun Curry (일본) — 조사일 2026-06-01
 - 멀리건 스튜 / Mulligan Stew (미국) — 조사일 2026-06-01
 - S.O.S. / 크리밍드 칩트 비프 온 토스트 / Shit on a Shingle (미국) — 조사일 2026-06-01
+- 용수 사탕 / Dragon's Beard Candy (중국) — 조사일 2026-06-02
+- 돈두르마 / Dondurma (터키) — 조사일 2026-06-02
+- 가쓰오부시 / Katsuobushi (일본) — 조사일 2026-06-02
+- 바움쿠헨 / Baumkuchen (독일·일본) — 조사일 2026-06-02
+- 필라델피아 크림치즈 / Philadelphia Cream Cheese (미국) — 조사일 2026-06-02
+- 파르미지아노레지아노 / Parmigiano Reggiano (이탈리아) — 조사일 2026-06-02
+- 크루아상 / Croissant (오스트리아·프랑스) — 조사일 2026-06-02
+- 로쿰 / Lokum / Turkish Delight (터키) — 조사일 2026-06-02
+- 치쿠와 / Chikuwa (일본) — 조사일 2026-06-02
+- 타이야키 / Taiyaki (일본) — 조사일 2026-06-02
