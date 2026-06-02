@@ -67,3 +67,13 @@
 - 브랜스턴 피클 치즈 샌드위치 / Branston Pickle Cheese Sandwich (영국) — 조사일 2026-06-02
 - 큐아라벤 / キャラ弁·Kyaraben (일본) — 조사일 2026-06-02
 - 프루트 롤업 / Fruit Roll-Ups (미국) — 조사일 2026-06-02
+- 사프란 / Saffron (인도 카슈미르·이란) — 조사일 2026-06-02
+- 코피 루왁 / Kopi Luwak (인도네시아) — 조사일 2026-06-02
+- 엘비시 허니 / Elvish Honey (터키) — 조사일 2026-06-02
+- 하몽 이베리코 데 베요타 / Jamón Ibérico de Bellota (스페인) — 조사일 2026-06-02
+- 알마스 캐비아 / Almas Caviar (이란·카스피해) — 조사일 2026-06-02
+- 백송로버섯 / White Truffle of Alba (이탈리아) — 조사일 2026-06-02
+- 마쯔타케 / Matsutake Mushroom (일본) — 조사일 2026-06-02
+- 버드 네스트 수프 / Bird's Nest Soup (동남아·중국) — 조사일 2026-06-02
+- 바닐라 빈 / Madagascar Vanilla (마다가스카르) — 조사일 2026-06-02
+- 세인트 에릭스 크리스프 / St. Erik's Crisps (스웨덴) — 조사일 2026-06-02
