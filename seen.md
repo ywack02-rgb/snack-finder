@@ -67,3 +67,13 @@
 - 브랜스턴 피클 치즈 샌드위치 / Branston Pickle Cheese Sandwich (영국) — 조사일 2026-06-02
 - 큐아라벤 / キャラ弁·Kyaraben (일본) — 조사일 2026-06-02
 - 프루트 롤업 / Fruit Roll-Ups (미국) — 조사일 2026-06-02
+- 피자리아스 / Keebler Pizzarias (미국) — 조사일 2026-06-03
+- 맥도날드 쓰촨 소스 / McDonald's Szechuan Sauce (미국) — 조사일 2026-06-03
+- 서지 소다 / Surge (미국) — 조사일 2026-06-03
+- 맥도날드 일본 포켓몬 해피밀 / McDonald's Japan Pokémon Happy Meal (일본) — 조사일 2026-06-03
+- 태양의 맛 썬 / Sun (한국) — 조사일 2026-06-03
+- 하이씨 에코 쿨러 / Hi-C Ecto Cooler (미국) — 조사일 2026-06-03
+- 허쉬 키사블스 / Hershey's Kissables (미국) — 조사일 2026-06-03
+- 곰표 밀맥주 (한국) — 조사일 2026-06-03
+- 플랜터스 치즈볼 / Planters Cheez Balls (미국) — 조사일 2026-06-03
+- 타코벨 멕시칸 피자 / Taco Bell Mexican Pizza (미국) — 조사일 2026-06-03
