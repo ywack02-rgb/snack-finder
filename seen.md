@@ -67,3 +67,13 @@
 - 브랜스턴 피클 치즈 샌드위치 / Branston Pickle Cheese Sandwich (영국) — 조사일 2026-06-02
 - 큐아라벤 / キャラ弁·Kyaraben (일본) — 조사일 2026-06-02
 - 프루트 롤업 / Fruit Roll-Ups (미국) — 조사일 2026-06-02
+- 오션 스프레이 크랜베리 주스 / Ocean Spray Cran-Raspberry (미국) — 조사일 2026-06-03
+- 서지 소다 / Surge (미국) — 조사일 2026-06-03
+- 스냅플 엘리먼츠 / Snapple Elements (미국) — 조사일 2026-06-03
+- 팹스트 블루 리본 / Pabst Blue Ribbon, PBR (미국) — 조사일 2026-06-03
+- 고리 뉴트리션 / Goli Nutrition 애플사이다 식초 구미 (미국) — 조사일 2026-06-03
+- 오리온 와클 / Orion Wackle (한국) — 조사일 2026-06-03
+- 오리온 배배 / Orion Baebae (한국) — 조사일 2026-06-03
+- 오리온 태양의 맛 썬 / Orion Sun (한국) — 조사일 2026-06-03
+- 원더 브레드 / Wonder Bread (미국) — 조사일 2026-06-03
+- 스냅플 / Snapple (미국) — 조사일 2026-06-03
