@@ -67,3 +67,13 @@
 - 브랜스턴 피클 치즈 샌드위치 / Branston Pickle Cheese Sandwich (영국) — 조사일 2026-06-02
 - 큐아라벤 / キャラ弁·Kyaraben (일본) — 조사일 2026-06-02
 - 프루트 롤업 / Fruit Roll-Ups (미국) — 조사일 2026-06-02
+- 버거킹 / 헝그리 잭스 / Hungry Jack's (미국·호주) — 조사일 2026-06-03
+- 헬만스 / 베스트 푸즈 / Hellmann's & Best Foods (미국) — 조사일 2026-06-03
+- 밀키웨이 / 마스바 / Milky Way & Mars Bar (미국·영국) — 조사일 2026-06-03
+- 레이더 / 트윅스 / Raider & Twix (유럽) — 조사일 2026-06-03
+- 오팔 프루츠 / 스타버스트 / Opal Fruits & Starburst (영국·미국) — 조사일 2026-06-03
+- 해겐다즈 vs 프루센 글레제 / Häagen-Dazs vs Frusen Glädjé (미국) — 조사일 2026-06-03
+- 스키피 피넛버터 / Skippy Peanut Butter (미국) — 조사일 2026-06-03
+- 지프 피넛버터 / Jif Peanut Butter (미국) — 조사일 2026-06-03
+- 레이즈 / 워커스 크리스프 / Lay's & Walkers Crisps (미국·영국) — 조사일 2026-06-03
+- 유니레버 하트브랜드 / Wall's·Streets·Langnese (세계) — 조사일 2026-06-03
