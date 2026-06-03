@@ -67,3 +67,13 @@
 - 브랜스턴 피클 치즈 샌드위치 / Branston Pickle Cheese Sandwich (영국) — 조사일 2026-06-02
 - 큐아라벤 / キャラ弁·Kyaraben (일본) — 조사일 2026-06-02
 - 프루트 롤업 / Fruit Roll-Ups (미국) — 조사일 2026-06-02
+- 미스터 피넛 / Mr. Peanut — Planters (미국) — 조사일 2026-06-03
+- 졸리 그린 자이언트 / Jolly Green Giant (미국) — 조사일 2026-06-03
+- 쉐프 보야디 / Chef Boyardee (미국·이탈리아) — 조사일 2026-06-03
+- 줄리어스 프링글스 / Julius Pringles (미국) — 조사일 2026-06-03
+- 더 노이드 / The Noid — Domino's Pizza (미국) — 조사일 2026-06-03
+- 토니 더 타이거 / Tony the Tiger — Frosted Flakes (미국) — 조사일 2026-06-03
+- 오트 제미마→펄밀링 / Aunt Jemima → Pearl Milling Company (미국) — 조사일 2026-06-03
+- 캡틴 크런치 / Cap'n Crunch (미국) — 조사일 2026-06-03
+- 체스터 치타 / Chester Cheetah — Cheetos (미국) — 조사일 2026-06-03
+- 페코짱 / Peko-chan — Fujiya Milky (일본) — 조사일 2026-06-03
