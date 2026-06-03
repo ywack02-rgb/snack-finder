@@ -67,3 +67,13 @@
 - 브랜스턴 피클 치즈 샌드위치 / Branston Pickle Cheese Sandwich (영국) — 조사일 2026-06-02
 - 큐아라벤 / キャラ弁·Kyaraben (일본) — 조사일 2026-06-02
 - 프루트 롤업 / Fruit Roll-Ups (미국) — 조사일 2026-06-02
+- 오스카 마이어 볼로냐 / Oscar Mayer Bologna (미국) — 조사일 2026-06-03
+- 오스카 마이어 위너 / Oscar Mayer Wiener (미국) — 조사일 2026-06-03
+- 치키타 바나나 / Chiquita Banana (미국) — 조사일 2026-06-03
+- 폴저스 커피 / Folgers Coffee (미국) — 조사일 2026-06-03
+- 칠리스 베이비백 립스 / Chili's Baby Back Ribs (미국) — 조사일 2026-06-03
+- 캘리포니아 레이즌 / California Raisins (미국) — 조사일 2026-06-03
+- 롯데껌 / Lotte Gum (한국) — 조사일 2026-06-03
+- 롯데칠성 2% 부족할 때 / Lotte Chilsung 2% (한국) — 조사일 2026-06-03
+- 롯데 자일리톨껌 / Lotte Xylitol Gum (한국) — 조사일 2026-06-03
+- 위티스 / Wheaties (미국) — 조사일 2026-06-03
