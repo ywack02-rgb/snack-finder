@@ -67,3 +67,13 @@
 - 브랜스턴 피클 치즈 샌드위치 / Branston Pickle Cheese Sandwich (영국) — 조사일 2026-06-02
 - 큐아라벤 / キャラ弁·Kyaraben (일본) — 조사일 2026-06-02
 - 프루트 롤업 / Fruit Roll-Ups (미국) — 조사일 2026-06-02
+- 젤로 푸딩팝 / Jell-O Pudding Pops (미국) — 조사일 2026-06-03
+- 서지 / Surge (미국) — 조사일 2026-06-03
+- 3D 도리토스 / 3D Doritos (미국) — 조사일 2026-06-03
+- 플랜터스 치즈볼 / Planters Cheez Balls (미국) — 조사일 2026-06-03
+- 하이씨 엑토 쿨러 / Hi-C Ecto Cooler (미국) — 조사일 2026-06-03
+- 알토이즈 사우어스 / Altoids Sours (미국) — 조사일 2026-06-03
+- 버터핑거 BBs / Butterfinger BB's (미국) — 조사일 2026-06-03
+- 크리스피 엠앤엠스 / Crispy M&M's (미국) — 조사일 2026-06-03
+- 프렌치 토스트 크런치 / French Toast Crunch (미국) — 조사일 2026-06-03
+- 오리온 치킨팝 / Orion Chicken Pop (한국) — 조사일 2026-06-03
