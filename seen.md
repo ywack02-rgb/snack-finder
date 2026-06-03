@@ -67,3 +67,20 @@
 - 브랜스턴 피클 치즈 샌드위치 / Branston Pickle Cheese Sandwich (영국) — 조사일 2026-06-02
 - 큐아라벤 / キャラ弁·Kyaraben (일본) — 조사일 2026-06-02
 - 프루트 롤업 / Fruit Roll-Ups (미국) — 조사일 2026-06-02
+- 트윅스 레프트 vs 라이트 / Left & Right Twix (미국 Mars Inc.) — 조사일 2026-06-03
+- 신라면 / Shin Ramyun (한국 농심) — 조사일 2026-06-03
+- 안성탕면 / Ansungtangmyun (한국 농심) — 조사일 2026-06-03
+- 켈로그 콘플레이크 / Kellogg's Corn Flakes (미국) — 조사일 2026-06-03
+- 켈로그 프로스티드 플레이크스 / Kellogg's Frosted Flakes (미국) — 조사일 2026-06-03
+- 스니커즈 / Snickers (미국 Mars Inc.) — 조사일 2026-06-03
+- 밀키웨이 / Milky Way (미국 Mars Inc.) — 조사일 2026-06-03
+- 환타 / Fanta (미국 Coca-Cola) — 조사일 2026-06-03
+- 스프라이트 / Sprite (미국 Coca-Cola) — 조사일 2026-06-03
+- 러플스 / Ruffles (미국 Frito-Lay/PepsiCo) — 조사일 2026-06-03
+- 포카칩 / Pocachip (한국 오리온) — 조사일 2026-06-03
+- 오감자 / Ogancha (한국 오리온) — 조사일 2026-06-03
+- M&M's 플레인·피넛 / M&M's Plain & Peanut (미국 Mars Inc.) — 조사일 2026-06-03
+- 킷캣 / KitKat (영국·스위스 Nestlé) — 조사일 2026-06-03
+- 에어로 / Aero (영국 Nestlé) — 조사일 2026-06-03
+- 펩시 / Pepsi (미국 PepsiCo) — 조사일 2026-06-03
+- 마운틴듀 / Mountain Dew (미국 PepsiCo) — 조사일 2026-06-03
