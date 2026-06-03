@@ -67,3 +67,13 @@
 - 브랜스턴 피클 치즈 샌드위치 / Branston Pickle Cheese Sandwich (영국) — 조사일 2026-06-02
 - 큐아라벤 / キャラ弁·Kyaraben (일본) — 조사일 2026-06-02
 - 프루트 롤업 / Fruit Roll-Ups (미국) — 조사일 2026-06-02
+- 프링글스 캔 / Pringles Can (미국) — 조사일 2026-06-03
+- 기꼬만 간장병 / Kikkoman Soy Sauce Dispenser (일본) — 조사일 2026-06-03
+- 하인즈 거꾸로 케첩병 / Heinz Upside-Down Ketchup Bottle (미국) — 조사일 2026-06-03
+- 토블론 삼각형 박스 / Toblerone Triangular Box (스위스) — 조사일 2026-06-03
+- 테트라팩 / Tetra Pak (스웨덴) — 조사일 2026-06-03
+- 코카콜라 컨투어 병 / Coca-Cola Contour Bottle (미국) — 조사일 2026-06-03
+- 마마이트 항아리 / Marmite Jar (영국) — 조사일 2026-06-03
+- 캠벨 수프 캔 / Campbell's Soup Can (미국) — 조사일 2026-06-03
+- 페리에 병 / Perrier Bottle (프랑스) — 조사일 2026-06-03
+- 미스터 피넛 / Mr. Peanut · Planters (미국) — 조사일 2026-06-03
