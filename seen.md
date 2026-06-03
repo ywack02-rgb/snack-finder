@@ -67,3 +67,13 @@
 - 브랜스턴 피클 치즈 샌드위치 / Branston Pickle Cheese Sandwich (영국) — 조사일 2026-06-02
 - 큐아라벤 / キャラ弁·Kyaraben (일본) — 조사일 2026-06-02
 - 프루트 롤업 / Fruit Roll-Ups (미국) — 조사일 2026-06-02
+- 헌틀리&팔머스 프루트케이크 / Huntley & Palmers Fruitcake (영국) — 조사일 2026-06-03
+- 하드택 / Hardtack (미국·영국) — 조사일 2026-06-03
+- 쉬르스트뢰밍 / Surströmming (스웨덴) — 조사일 2026-06-03
+- 하카를 / Hákarl (아이슬란드) — 조사일 2026-06-03
+- 타바스코 / Tabasco Sauce (미국) — 조사일 2026-06-03
+- 페미칸 / Pemmican (북미 원주민) — 조사일 2026-06-03
+- 베지마이트 / Vegemite (호주) — 조사일 2026-06-03
+- 이집트 투탕카멘 묘 꿀 / Egyptian Tomb Honey (이집트) — 조사일 2026-06-03
+- 이글 브랜드 연유 / Eagle Brand Condensed Milk (미국) — 조사일 2026-06-03
+- 리앤페린스 우스터셔 소스 / Lea & Perrins Worcestershire Sauce (영국) — 조사일 2026-06-03
