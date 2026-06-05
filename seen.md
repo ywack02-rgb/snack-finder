@@ -87,3 +87,13 @@
 - 초콜릿 / Chocolate (아즈텍·유럽) — 조사일 2026-06-04
 - 오렌지 / Orange (빅토리아 시대 영국·미국) — 조사일 2026-06-04
 - 아이스크림 / Ice Cream (영국 왕실 17세기) — 조사일 2026-06-04
+- 캠벨 수프 × 앤디 워홀 한정판 캔 / Campbell's Soup × Andy Warhol (미국) — 조사일 2026-06-05
+- 앱솔루트 보드카 아트 에디션 / Absolut Vodka Artist Series (스웨덴) — 조사일 2026-06-05
+- 일리카페 아트 컬렉션 / illycaffè Art Collection (이탈리아) — 조사일 2026-06-05
+- 기코만 × 에쿠안 켄지 간장 병 / Kikkoman × Kenji Ekuan Bottle (일본) — 조사일 2026-06-05
+- 오레오 × 슈프림 / Oreo × Supreme (미국) — 조사일 2026-06-05
+- 페리에 × 앤디 워홀 / Perrier × Andy Warhol (프랑스) — 조사일 2026-06-05
+- 하인즈 'Edchup' × 에드 시런 / Heinz Edchup × Ed Sheeran (영국) — 조사일 2026-06-05
+- 에비앙 × 장 폴 고티에 / Evian × Jean Paul Gaultier (프랑스) — 조사일 2026-06-05
+- 코카콜라 컨투어 병 / Coca-Cola Contour Bottle (미국) — 조사일 2026-06-05
+- 기네스 × 존 길로이 / Guinness × John Gilroy (아일랜드) — 조사일 2026-06-05
