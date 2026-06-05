@@ -87,3 +87,13 @@
 - 초콜릿 / Chocolate (아즈텍·유럽) — 조사일 2026-06-04
 - 오렌지 / Orange (빅토리아 시대 영국·미국) — 조사일 2026-06-04
 - 아이스크림 / Ice Cream (영국 왕실 17세기) — 조사일 2026-06-04
+- 커클랜드 시그니처 커피 / Kirkland Signature Coffee (미국) — 조사일 2026-06-05
+- 커클랜드 시그니처 기저귀 / Kirkland Diapers - 킴벌리클라크 (미국) — 조사일 2026-06-05
+- 커클랜드 시그니처 버번 / Kirkland Bourbon - 짐빔→바튼1792 (미국) — 조사일 2026-06-05
+- 커클랜드 시그니처 보드카 / Kirkland Vodka (미국) — 조사일 2026-06-05
+- 커클랜드 배터리 vs 멤버스마크 배터리 / Kirkland vs Member's Mark Batteries (미국) — 조사일 2026-06-05
+- 찰스 쇼 와인 Two Buck Chuck / Charles Shaw Wine (미국) — 조사일 2026-06-05
+- 알디 모저 로스 초콜릿 / Aldi Moser Roth Chocolate (독일/미국) — 조사일 2026-06-05
+- 트레이더 조스 PB 공급사 비밀 계약 시스템 / Trader Joe's Private Label (미국) — 조사일 2026-06-05
+- GS25 유어스 바프쌀로별 / GS25 YouUs Ssallo Star (한국) — 조사일 2026-06-05
+- 커클랜드 화장지 / Kirkland Toilet Paper (미국) — 조사일 2026-06-05
