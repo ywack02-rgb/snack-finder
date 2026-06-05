@@ -87,3 +87,13 @@
 - 초콜릿 / Chocolate (아즈텍·유럽) — 조사일 2026-06-04
 - 오렌지 / Orange (빅토리아 시대 영국·미국) — 조사일 2026-06-04
 - 아이스크림 / Ice Cream (영국 왕실 17세기) — 조사일 2026-06-04
+- 버드와이저 / Budweiser — Budvar vs. AB InBev (체코·미국) — 조사일 2026-06-05
+- 스마티즈 / Smarties — Nestlé vs. Ce De Candy (영국·캐나다·미국) — 조사일 2026-06-05
+- 오발틴 / Ovaltine — ABF vs. Nestlé (스위스·영국·미국) — 조사일 2026-06-05
+- 마마이트 / Marmite — 영국 Unilever vs. 뉴질랜드 Sanitarium (영국·뉴질랜드) — 조사일 2026-06-05
+- 파르미자노 레자노 vs. 파마산 / Parmigiano-Reggiano vs. Parmesan (이탈리아·미국) — 조사일 2026-06-05
+- 갤럭시·도브 초콜릿 / Galaxy vs. Dove Chocolate (영국·미국, Mars Inc.) — 조사일 2026-06-05
+- 헬만즈·베스트푸즈 / Hellmann's vs. Best Foods (미국 동부·서부, Unilever) — 조사일 2026-06-05
+- 페타 치즈 / Feta (그리스 EU PDO vs. 덴마크·미국) — 조사일 2026-06-05
+- 슈레디드 위트 / Shredded Wheat — Nabisco vs. Kellogg (미국) — 조사일 2026-06-05
+- 레드불·크라팅대오 / Red Bull vs. Krating Daeng (오스트리아·태국) — 조사일 2026-06-05
