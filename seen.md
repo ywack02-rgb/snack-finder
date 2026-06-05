@@ -87,3 +87,13 @@
 - 초콜릿 / Chocolate (아즈텍·유럽) — 조사일 2026-06-04
 - 오렌지 / Orange (빅토리아 시대 영국·미국) — 조사일 2026-06-04
 - 아이스크림 / Ice Cream (영국 왕실 17세기) — 조사일 2026-06-04
+- Mr. Peanut / 미스터 피넛 (Planters, 미국) — 조사일 2026-06-05
+- Aunt Jemima → Pearl Milling Company / 앤트 제마이마 (미국) — 조사일 2026-06-05
+- Sailor Jack & Bingo / 세일러 잭 & 빙고 (Cracker Jack, 미국) — 조사일 2026-06-05
+- Sun-Maid Girl / 선메이드 건포도 소녀 (미국) — 조사일 2026-06-05
+- Julius Pringles & Fred Baur / 프링글스 마스코트 (미국) — 조사일 2026-06-05
+- Tony the Tiger / 토니 더 타이거 (Kellogg's Frosted Flakes, 미국) — 조사일 2026-06-05
+- Jolly Green Giant / 졸리 그린 자이언트 (Green Giant, 미국) — 조사일 2026-06-05
+- Quaker Man "Larry" / 퀘이커 맨 (Quaker Oats, 미국) — 조사일 2026-06-05
+- Cap'n Crunch / 캡틴 크런치 (Quaker Oats, 미국) — 조사일 2026-06-05
+- Michelin Man Bibendum / 미슐랭 맨 비벤덤 (Michelin, 프랑스) — 조사일 2026-06-05
