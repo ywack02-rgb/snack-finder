@@ -97,3 +97,13 @@
 - 코싱하 / Coxinha (브라질) — 조사일 2026-06-06
 - 오블레아스 / Obleas (콜롬비아) — 조사일 2026-06-06
 - 벨 푸리 / Bhel Puri (인도·뭄바이) — 조사일 2026-06-06
+- 초바니 / Chobani (미국) — 조사일 2026-06-06
+- 셰프 보야르디 / Chef Boyardee (미국) — 조사일 2026-06-06
+- 고야 푸즈 / Goya Foods (미국) — 조사일 2026-06-06
+- 후이퐁 스리라차 / Huy Fong Sriracha (미국) — 조사일 2026-06-06
+- 데이브스 핫 치킨 / Dave's Hot Chicken (미국) — 조사일 2026-06-06
+- 애니 천·김미 씨위드 / Annie Chun's & gimMe Seaweed (미국) — 조사일 2026-06-06
+- 동방 베이커리 킹 케이크 / Dong Phuong Bakery King Cake (미국) — 조사일 2026-06-06
+- 졸리비 / Jollibee (필리핀) — 조사일 2026-06-06
+- 투파얀 베이커리즈 / Toufayan Bakeries (미국) — 조사일 2026-06-06
+- 판다 익스프레스 / Panda Express (미국) — 조사일 2026-06-06
