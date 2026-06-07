@@ -97,3 +97,13 @@
 - 코싱하 / Coxinha (브라질) — 조사일 2026-06-06
 - 오블레아스 / Obleas (콜롬비아) — 조사일 2026-06-06
 - 벨 푸리 / Bhel Puri (인도·뭄바이) — 조사일 2026-06-06
+- 투탕카멘의 꿀 / Tutankhamun's Honey (이집트) — 조사일 2026-06-07
+- 스르뢰밍 / Surströmming (스웨덴) — 조사일 2026-06-07
+- 우스터셔 소스 / Lea & Perrins Worcestershire Sauce (영국) — 조사일 2026-06-07
+- 하우카르들 / Hákarl (아이슬란드) — 조사일 2026-06-07
+- 타바스코 / Tabasco Sauce (미국) — 조사일 2026-06-07
+- 남극 탐험대 프루트케이크 / Antarctic Expedition Fruitcake (영국/뉴질랜드) — 조사일 2026-06-07
+- 카수 마르추 / Casu Martzu (이탈리아 사르데냐) — 조사일 2026-06-07
+- 김치냉장고 / Kimchi Refrigerator (한국) — 조사일 2026-06-07
+- 하드택 / Hardtack (미국·영국) — 조사일 2026-06-07
+- 루테피스크 / Lutefisk (노르웨이) — 조사일 2026-06-07
