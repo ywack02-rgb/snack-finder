@@ -117,3 +117,13 @@
 - 합성 바닐린 / Synthetic Vanillin (독일 1874) — 조사일 2026-06-07
 - 냉동 채소 / Frozen Vegetables — 버즈아이 (미국 1930) — 조사일 2026-06-07
 - 아보카도 / Avocado (캘리포니아) — 조사일 2026-06-07
+- 커클랜드 시그니처 / Kirkland Signature (미국·코스트코) — 조사일 2026-06-07
+- 커클랜드 × 스타벅스 커피 / Kirkland × Starbucks Coffee (미국) — 조사일 2026-06-07
+- 커클랜드 버번 × 짐빔→바톤 1792 / Kirkland Bourbon × Jim Beam→Barton 1792 (미국) — 조사일 2026-06-07
+- 커클랜드 프랑스 보드카 × 그레이구스 루머 / Kirkland French Vodka vs. Grey Goose Myth (미국·프랑스) — 조사일 2026-06-07
+- 커클랜드 땅콩버터 프레첼 × H.K. Anderson/Utz (미국) — 조사일 2026-06-07
+- 트레이더 조 투 벅 척 / Trader Joe's Two Buck Chuck / Charles Shaw Wine (미국) — 조사일 2026-06-07
+- 알디 모저 로스 초콜릿 × 슈토르크 / Aldi Moser Roth × Storck (독일) — 조사일 2026-06-07
+- 알디 밀빌 시리얼 × 몰트-오-밀 / Aldi Millville Cereal × Malt-O-Meal (미국) — 조사일 2026-06-07
+- 곰표 밀맥주 × CU × 세븐브로이 × 롯데칠성 (한국) — 조사일 2026-06-07
+- GS25 유어스 쌀로별 바프마늘빵맛 × 롯데제과 (한국) — 조사일 2026-06-07
