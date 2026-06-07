@@ -117,3 +117,13 @@
 - 합성 바닐린 / Synthetic Vanillin (독일 1874) — 조사일 2026-06-07
 - 냉동 채소 / Frozen Vegetables — 버즈아이 (미국 1930) — 조사일 2026-06-07
 - 아보카도 / Avocado (캘리포니아) — 조사일 2026-06-07
+- 프링글스 / Pringles (미국) — 조사일 2026-06-07
+- 닛신 치킨라면 / Nissin Chicken Ramen — 안도 모모후쿠 (일본) — 조사일 2026-06-07
+- 네스카페 / Nescafé (스위스) — 조사일 2026-06-07
+- KFC 오리지널 레시피 / KFC Original Recipe (미국) — 조사일 2026-06-07
+- 캐드버리 데어리 밀크 / Cadbury Dairy Milk (영국) — 조사일 2026-06-07
+- 레드불 / Red Bull (오스트리아·태국) — 조사일 2026-06-07
+- 리즈 땅콩버터컵 / Reese's Peanut Butter Cups (미국) — 조사일 2026-06-07
+- 젤리 벨리 / Jelly Belly (미국) — 조사일 2026-06-07
+- 페레로 로쉐 / Ferrero Rocher (이탈리아) — 조사일 2026-06-07
+- 닥터 페퍼 체리 바닐라 / Dr Pepper Cherry Vanilla — 블리스 포인트 (미국) — 조사일 2026-06-07
