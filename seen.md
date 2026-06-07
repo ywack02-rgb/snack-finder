@@ -107,3 +107,13 @@
 - 김치냉장고 / Kimchi Refrigerator (한국) — 조사일 2026-06-07
 - 하드택 / Hardtack (미국·영국) — 조사일 2026-06-07
 - 루테피스크 / Lutefisk (노르웨이) — 조사일 2026-06-07
+- 슈어크라우트→리버티 캐비지 / Sauerkraut→Liberty Cabbage (미국·독일) — 조사일 2026-06-07
+- 프렌치 프라이→프리덤 프라이 / French Fries→Freedom Fries (미국) — 조사일 2026-06-07
+- 사워도우 빵 / Sourdough Bread (전 세계·코로나) — 조사일 2026-06-07
+- 베지마이트 / Vegemite (호주) — 조사일 2026-06-07
+- 보르쉬치 / Borsch (우크라이나) — 조사일 2026-06-07
+- 프리덤 파인애플 / Freedom Pineapple (대만) — 조사일 2026-06-07
+- 산루 분유 / Sanlu Infant Formula (중국) — 조사일 2026-06-07
+- 뉴올리언스 레드빈스 앤 라이스 / New Orleans Red Beans and Rice (미국) — 조사일 2026-06-07
+- 미국산 쇠고기 / US Beef in Korea (한국·미국) — 조사일 2026-06-07
+- 후쿠시마 복숭아 / Fukushima Peaches (일본) — 조사일 2026-06-07
