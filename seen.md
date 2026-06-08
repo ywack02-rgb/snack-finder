@@ -147,3 +147,13 @@
 - 코기 BBQ 타코 / Kogi BBQ Korean Taco (미국·한국·멕시코계) — 조사일 2026-06-08
 - 코니 아일랜드 핫도그 / Coney Island Hot Dog (미국·독일계) — 조사일 2026-06-08
 - 찹 수이 / Chop Suey (미국·중국계 캔토니즈) — 조사일 2026-06-08
+- 버드와이저(체코) / Budějovický Budvar (체코·미국) — 조사일 2026-06-08
+- 스마티스(초콜릿) / Nestlé Smarties (영국·캐나다) — 조사일 2026-06-08
+- 하이드록스 / Hydrox (미국) — 조사일 2026-06-08
+- 피스코 / Pisco (페루·칠레) — 조사일 2026-06-08
+- 헝그리잭스 / Hungry Jack's (호주) — 조사일 2026-06-08
+- 킷캣 미국판 Hershey / Kit Kat by Hershey (미국) — 조사일 2026-06-08
+- 페타 치즈 / Feta cheese PDO (그리스·EU) — 조사일 2026-06-08
+- 샴페인 / Champagne AOC (프랑스) — 조사일 2026-06-08
+- 에멘탈 / Emmentaler (스위스) — 조사일 2026-06-08
+- 해겐다즈·프루센글래드예 / Häagen-Dazs vs Frusen Glädjé (미국) — 조사일 2026-06-08
