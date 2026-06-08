@@ -147,3 +147,13 @@
 - 코기 BBQ 타코 / Kogi BBQ Korean Taco (미국·한국·멕시코계) — 조사일 2026-06-08
 - 코니 아일랜드 핫도그 / Coney Island Hot Dog (미국·독일계) — 조사일 2026-06-08
 - 찹 수이 / Chop Suey (미국·중국계 캔토니즈) — 조사일 2026-06-08
+- 뉴 코크 / New Coke → Coca-Cola Classic (미국) — 조사일 2026-06-08
+- 리스 피넛버터 컵 / Reese's Peanut Butter Cups (미국) — 조사일 2026-06-08
+- 트릭스 시리얼 / Trix (미국) — 조사일 2026-06-08
+- 하인즈 샐러드 크림 / Heinz Salad Cream (영국) — 조사일 2026-06-08
+- 트로피카나 오렌지 주스 / Tropicana (미국) — 조사일 2026-06-08
+- 캐드버리 크림 에그 / Cadbury Creme Egg (영국) — 조사일 2026-06-08
+- 아넛츠 피자 쉐이프스 / Arnott's Pizza Shapes (호주) — 조사일 2026-06-08
+- 스키틀스 라임 / Skittles Lime (미국) — 조사일 2026-06-08
+- 피그 뉴턴스 → 뉴턴스 / Fig Newtons (미국) — 조사일 2026-06-08
+- 워커스 크리스프 / Walkers Crisps (영국) — 조사일 2026-06-08
