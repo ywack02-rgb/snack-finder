@@ -127,3 +127,13 @@
 - 호르미가 쿨로나 / Hormiga Culona (콜롬비아) — 조사일 2026-06-08
 - 시오카라 / 塩辛 / Shiokara (일본) — 조사일 2026-06-08
 - 플러퍼너터 / Fluffernutter (미국) — 조사일 2026-06-08
+- 아폴로 과자 / Apollo 과자 (한국, 우림제과) — 조사일 2026-06-08
+- 쫀드기 / Jjondeuki (한국) — 조사일 2026-06-08
+- 밭두렁 / Batdureong (한국) — 조사일 2026-06-08
+- 플라잉 소서 / Flying Saucers / Satellite Wafers (벨기에·영국) — 조사일 2026-06-08
+- 스페이스 더스트 → 코즈믹 캔디 / Space Dust → Cosmic Candy (미국) — 조사일 2026-06-08
+- 피지스 / Fizzies (미국) — 조사일 2026-06-08
+- 프루트 스트라이프 껌 / Fruit Stripe Gum (미국) — 조사일 2026-06-08
+- 피자 스핀스 / Pizza Spins (미국) — 조사일 2026-06-08
+- 하이씨 엑토 쿨러 / Hi-C Ecto Cooler (미국) — 조사일 2026-06-08
+- 샤크 바이츠 화이트 상어 / Shark Bites Great White (미국) — 조사일 2026-06-08
