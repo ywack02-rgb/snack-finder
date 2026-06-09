@@ -147,3 +147,13 @@
 - 코기 BBQ 타코 / Kogi BBQ Korean Taco (미국·한국·멕시코계) — 조사일 2026-06-08
 - 코니 아일랜드 핫도그 / Coney Island Hot Dog (미국·독일계) — 조사일 2026-06-08
 - 찹 수이 / Chop Suey (미국·중국계 캔토니즈) — 조사일 2026-06-08
+- 마가린 / Margarine (프랑스) — 조사일 2026-06-09
+- 통조림 / Nicolas Appert Canned Food (프랑스) — 조사일 2026-06-09
+- 허쉬 D-레이션 초콜릿 / Hershey D-Ration Chocolate Bar (미국) — 조사일 2026-06-09
+- 페미컨 / Pemmican (북미 원주민) — 조사일 2026-06-09
+- 가룸 / Garum (고대 로마) — 조사일 2026-06-09
+- 추뇨 / Chuño (볼리비아·페루) — 조사일 2026-06-09
+- 에르자츠 커피(묵케퍽) / Ersatzkaffee · Muckefuck (독일) — 조사일 2026-06-09
+- 불리 비프 / Bully Beef — Fray Bentos (우루과이·영국) — 조사일 2026-06-09
+- K-레이션 / K-Ration (미국) — 조사일 2026-06-09
+- 연유 / Sweetened Condensed Milk — Gail Borden (미국) — 조사일 2026-06-09
