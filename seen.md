@@ -147,3 +147,13 @@
 - 코기 BBQ 타코 / Kogi BBQ Korean Taco (미국·한국·멕시코계) — 조사일 2026-06-08
 - 코니 아일랜드 핫도그 / Coney Island Hot Dog (미국·독일계) — 조사일 2026-06-08
 - 찹 수이 / Chop Suey (미국·중국계 캔토니즈) — 조사일 2026-06-08
+- 아토믹 보드카 / Atomik Vodka (우크라이나·영국) — 조사일 2026-06-09
+- 사워도우 빵 / Sourdough Bread (미국·전 세계) — 조사일 2026-06-09
+- 후쿠시마 쌀·복숭아 (일본) — 조사일 2026-06-09
+- 뉴올리언스 검보 / New Orleans Gumbo (미국) — 조사일 2026-06-09
+- 프리덤 프라이 / Freedom Fries (미국) — 조사일 2026-06-09
+- 코카콜라 WWII 전선 공급 / Coca-Cola at War (미국) — 조사일 2026-06-09
+- 한국 치킨 / Korean Fried Chicken IMF (대한민국) — 조사일 2026-06-09
+- 아토믹 칵테일 / Atomic Cocktail (미국·라스베이거스) — 조사일 2026-06-09
+- 보브릴 / Bovril (영국) — 조사일 2026-06-09
+- 빅토리 가든 채소 / Victory Garden Vegetables (미국·영국·캐나다) — 조사일 2026-06-09
