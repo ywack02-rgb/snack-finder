@@ -147,3 +147,13 @@
 - 코기 BBQ 타코 / Kogi BBQ Korean Taco (미국·한국·멕시코계) — 조사일 2026-06-08
 - 코니 아일랜드 핫도그 / Coney Island Hot Dog (미국·독일계) — 조사일 2026-06-08
 - 찹 수이 / Chop Suey (미국·중국계 캔토니즈) — 조사일 2026-06-08
+- 퀄리티 스트리트 / Quality Street (영국) — 조사일 2026-06-09
+- 크래커 잭 / Cracker Jack (미국) — 조사일 2026-06-09
+- 젤로 / Jell-O (미국) — 조사일 2026-06-09
+- 라이프세이버스 스위트 스토리북 / Life Savers Sweet Story Book (미국) — 조사일 2026-06-09
+- M&M's (미국) — 조사일 2026-06-09
+- 바넘스 애니멀 크래커스 / Barnum's Animal Crackers (미국) — 조사일 2026-06-09
+- 롯데 가나 초콜릿 / Lotte Ghana Chocolate (한국) — 조사일 2026-06-09
+- 해태 오예스 / Haitai O'Yes (한국) — 조사일 2026-06-09
+- 골드피쉬 크래커 / Goldfish Crackers (스위스→미국) — 조사일 2026-06-09
+- 롯데 꼬깔콘 / Lotte Kkokkalcon (한국) — 조사일 2026-06-09
