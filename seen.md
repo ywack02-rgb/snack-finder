@@ -147,3 +147,13 @@
 - 코기 BBQ 타코 / Kogi BBQ Korean Taco (미국·한국·멕시코계) — 조사일 2026-06-08
 - 코니 아일랜드 핫도그 / Coney Island Hot Dog (미국·독일계) — 조사일 2026-06-08
 - 찹 수이 / Chop Suey (미국·중국계 캔토니즈) — 조사일 2026-06-08
+- 에브리씽 벗 더 베이글 시즈닝 / Trader Joe's Everything But the Bagel Seasoning (미국) — 조사일 2026-06-10
+- 올드베이 시즈닝 / Old Bay Seasoning (미국·메릴랜드) — 조사일 2026-06-10
+- 로투스 비스코프 쿠키 스프레드 / Lotus Biscoff Cookie Spread (벨기에) — 조사일 2026-06-10
+- 치토스 플레이밍 핫 / Cheetos FLAMIN' HOT (미국) — 조사일 2026-06-10
+- 타힌 클라시코 / Tajín Clásico (멕시코) — 조사일 2026-06-10
+- 히든밸리 랜치 드레싱 / Hidden Valley Ranch Dressing (미국) — 조사일 2026-06-10
+- 리시스 피넛버터컵 / Reese's Peanut Butter Cups (미국) — 조사일 2026-06-10
+- 트레이더조 만다린 오렌지 치킨 / Trader Joe's Mandarin Orange Chicken (미국) — 조사일 2026-06-10
+- UHA 코로로 젤리 / UHA Cororo コロロ (일본) — 조사일 2026-06-10
+- 타키스 푸에고 / Takis Fuego (멕시코) — 조사일 2026-06-10
