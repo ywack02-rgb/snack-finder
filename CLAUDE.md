@@ -28,8 +28,11 @@ GitHub 예약 작업이 **매 시간당 한 번** 이 문서를 읽고 아래 �
    - 이번 섹션 형식: `## <YYYY-MM-DD HH시> — 전략 <번호>: <선택된 전략명>` 아래에 항목 10개.
 6. **이번에 찾은 간식 이름을 `seen.md` 에 한 줄씩 추가**한다.
    - 형식: `- 제품명 (나라) — 조사일 YYYY-MM-DD`
-7. 변경된 파일(`results/<주차>.md`, `seen.md`)을 **main 브랜치에 직접 커밋**한다.
-
+7. 변경된 파일(results/<주차>.md, seen.md)을 **새 브랜치를 만들지 말고 원격 main에 직접 push**한다.
+   git add -A
+   git commit -m "harvest: <YYYY-MM-DD HH시>"
+   git push origin HEAD:main
+   push 성공을 확인하고, 실패 시 오류를 리포트한다.
 ## 탐색 전략 목록 (idx → 전략)
 
 ### 0 — 리테일 베스트셀러 수확
