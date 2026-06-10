@@ -147,3 +147,13 @@
 - 코기 BBQ 타코 / Kogi BBQ Korean Taco (미국·한국·멕시코계) — 조사일 2026-06-08
 - 코니 아일랜드 핫도그 / Coney Island Hot Dog (미국·독일계) — 조사일 2026-06-08
 - 찹 수이 / Chop Suey (미국·중국계 캔토니즈) — 조사일 2026-06-08
+- 두바이 쫀득쿠키 / Dubai Chewy Cookie (두쫀쿠, 한국 창작·역수출) — 조사일 2026-06-10
+- 탕후루 흥망성쇠 / Tanghulu Rise and Fall (중국·한국) — 조사일 2026-06-10
+- 오리온 촉촉한 황치즈칩 / Orion Moist Yellow Cheese Chip (한국) — 조사일 2026-06-10
+- 버터떡 / Butter Tteok (중국 상하이 발·한국 2026) — 조사일 2026-06-10
+- 포켓몬빵 띠부띠부씰 / Pokémon Bread Ttiboo Sticker (한국, SPC삼립 2022 부활) — 조사일 2026-06-10
+- 소금 토마토 사탕 / 塩トマトあめ Shio Tomato Ame (일본 카토 제과·GS25 입점) — 조사일 2026-06-10
+- 봄동비빔밥 / Bomdong Bibimbap (한국 2026 SNS 제철 트렌드) — 조사일 2026-06-10
+- 얼먹젤리 / Frozen Jelly Eating Trend (한국 Z세대 2026) — 조사일 2026-06-10
+- 롯데리아×온정돈까스 디진다 돈까스 / Lotteria Dijinda Pork Cutlet (한국 2026) — 조사일 2026-06-10
+- 강민경 연어 깍두기 / Kang Min-kyung Salmon Kkakdugi (한국 2025) — 조사일 2026-06-10
