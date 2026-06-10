@@ -147,3 +147,13 @@
 - 코기 BBQ 타코 / Kogi BBQ Korean Taco (미국·한국·멕시코계) — 조사일 2026-06-08
 - 코니 아일랜드 핫도그 / Coney Island Hot Dog (미국·독일계) — 조사일 2026-06-08
 - 찹 수이 / Chop Suey (미국·중국계 캔토니즈) — 조사일 2026-06-08
+- 도쿄 바나나 / Tokyo Banana 東京ばな奈 (일본) — 조사일 2026-06-10
+- 히든 밸리 랜치 / Hidden Valley Ranch (미국) — 조사일 2026-06-10
+- 프랭크스 레드핫 / Frank's RedHot (미국) — 조사일 2026-06-10
+- 크래프트 맥앤치즈 / Kraft Mac & Cheese (미국) — 조사일 2026-06-10
+- 퀘벡 메이플 시럽 / Quebec Maple Syrup (캐나다) — 조사일 2026-06-10
+- 킨더 서프라이즈 / Kinder Surprise Egg (이탈리아·유럽) — 조사일 2026-06-10
+- 트레이더조 쿠키 버터 / Trader Joe's Cookie Butter (미국) — 조사일 2026-06-10
+- 팝타르트 / Pop-Tarts (미국) — 조사일 2026-06-10
+- 치즈잇 / Cheez-It (미국) — 조사일 2026-06-10
+- 골드피쉬 크래커 / Goldfish Crackers (미국) — 조사일 2026-06-10
