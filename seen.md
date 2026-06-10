@@ -147,3 +147,13 @@
 - 코기 BBQ 타코 / Kogi BBQ Korean Taco (미국·한국·멕시코계) — 조사일 2026-06-08
 - 코니 아일랜드 핫도그 / Coney Island Hot Dog (미국·독일계) — 조사일 2026-06-08
 - 찹 수이 / Chop Suey (미국·중국계 캔토니즈) — 조사일 2026-06-08
+- 플라민 핫 치토스 / Flamin' Hot Cheetos (미국) — 조사일 2026-06-10
+- 킨더 서프라이즈 에그 / Kinder Surprise Egg (이탈리아) — 조사일 2026-06-10
+- 트레이더조 스페큘로스 쿠키버터 / Trader Joe's Speculoos Cookie Butter (벨기에·미국) — 조사일 2026-06-10
+- Buc-ee's 비버 너겟 / Beaver Nuggets (미국) — 조사일 2026-06-10
+- 올드 베이 시즈닝 / Old Bay Seasoning (미국) — 조사일 2026-06-10
+- 에쉬레 버터 / Échiré Beurre AOP (프랑스) — 조사일 2026-06-10
+- 리세스 피넛버터컵 / Reese's Peanut Butter Cups (미국) — 조사일 2026-06-10
+- 타히인 / Tajín Clásico (멕시코) — 조사일 2026-06-10
+- 치즈잇 / Cheez-It (미국) — 조사일 2026-06-10
+- 와타버거 스파이시 케첩 / Whataburger Spicy Ketchup (미국) — 조사일 2026-06-10
