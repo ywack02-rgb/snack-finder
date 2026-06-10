@@ -147,3 +147,13 @@
 - 코기 BBQ 타코 / Kogi BBQ Korean Taco (미국·한국·멕시코계) — 조사일 2026-06-08
 - 코니 아일랜드 핫도그 / Coney Island Hot Dog (미국·독일계) — 조사일 2026-06-08
 - 찹 수이 / Chop Suey (미국·중국계 캔토니즈) — 조사일 2026-06-08
+- 진짜 와사비 / 本わさび (일본) — 조사일 2026-06-10
+- 마누카꿀 / Manuka Honey (뉴질랜드) — 조사일 2026-06-10
+- 트러플 오일 / Truffle Oil (이탈리아·프랑스) — 조사일 2026-06-10
+- 파마산 치즈 목재 펄프 스캔들 / Parmesan Cheese Cellulose Scandal (미국) — 조사일 2026-06-10
+- 엑스트라 버진 올리브유 / Extra Virgin Olive Oil (이탈리아) — 조사일 2026-06-10
+- 포켓몬빵 재출시 / Pokémon Bread Revival (한국, SPC 삼립) — 조사일 2026-06-10
+- 발사믹 식초 DOP / Aceto Balsamico Tradizionale DOP (이탈리아) — 조사일 2026-06-10
+- 아보카도오일 / Avocado Oil (미국) — 조사일 2026-06-10
+- 클레오파트라 감자칩 / Cleopatra Potato Chips (한국, 농심) — 조사일 2026-06-10
+- 팅클 / Tinkle (한국, 롯데웰푸드) — 조사일 2026-06-10
