@@ -147,3 +147,13 @@
 - 코기 BBQ 타코 / Kogi BBQ Korean Taco (미국·한국·멕시코계) — 조사일 2026-06-08
 - 코니 아일랜드 핫도그 / Coney Island Hot Dog (미국·독일계) — 조사일 2026-06-08
 - 찹 수이 / Chop Suey (미국·중국계 캔토니즈) — 조사일 2026-06-08
+- 엑스트라버진 올리브유 / Extra Virgin Olive Oil (이탈리아·스페인·그리스) — 조사일 2026-06-10
+- 와사비·고추냉이 가짜 사건 / Fake Wasabi (한국) — 조사일 2026-06-10
+- 트러플 오일 / Truffle Oil (이탈리아·프랑스) — 조사일 2026-06-10
+- 파르미지아노 레지아노 vs 파마산 / Parmigiano-Reggiano vs Parmesan (이탈리아·미국) — 조사일 2026-06-10
+- 마누카 꿀 / Manuka Honey (뉴질랜드·호주) — 조사일 2026-06-10
+- 모데나 전통 발사믹 식초 DOP / Aceto Balsamico Tradizionale di Modena (이탈리아) — 조사일 2026-06-10
+- 크레오파트라 포테토칩 / Nongshim Cleopatra Potato Chip (한국) — 조사일 2026-06-10
+- 한국 사이다 / Chilsung Cider (한국) — 조사일 2026-06-10
+- 팅클 / Tinkle (한국) — 조사일 2026-06-10
+- 대롱대롱 / Darongdarong Ice Cream (한국) — 조사일 2026-06-10
