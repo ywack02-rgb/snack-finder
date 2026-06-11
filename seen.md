@@ -177,3 +177,13 @@
 - 성심당 빵당포 + 대전빵차 (한국) — 조사일 2026-06-11
 - 쑥 라떼 / 쑥 디저트 할메니얼 트렌드 (한국) — 조사일 2026-06-11
 - 양갱 / 羊羹 MZ 재발견 갱-생 트렌드 (한국·일본) — 조사일 2026-06-11
+- 트레이더조 에브리씽 벗 더 베이글 시즈닝 / Trader Joe's Everything But the Bagel Seasoning (미국) — 조사일 2026-06-11
+- 플라밍 핫 치토스 / Flamin' Hot Cheetos (미국) — 조사일 2026-06-11
+- 칼피스 / Calpis·Calpico (일본) — 조사일 2026-06-11
+- 팝타르트 / Pop-Tarts Frosted Strawberry (미국) — 조사일 2026-06-11
+- 커클랜드 로티서리 치킨 / Kirkland Signature Rotisserie Chicken (미국) — 조사일 2026-06-11
+- 로손 우치카페 프리미엄 롤케이크 / Lawson Uchi Café Premium Roll Cake (일본) — 조사일 2026-06-11
+- 트레이더조 쿠키 버터 / Trader Joe's Speculoos Cookie Butter (미국) — 조사일 2026-06-11
+- 세이코마트 소프트아이스크림 / Seicomart Hokkaido Soft Cream (일본) — 조사일 2026-06-11
+- 트레이더조 만다린 오렌지 치킨 / Trader Joe's Mandarin Orange Chicken (미국) — 조사일 2026-06-11
+- 애니스 홈그로운 맥앤치즈 / Annie's Homegrown Mac & Cheese (미국) — 조사일 2026-06-11
