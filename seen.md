@@ -278,3 +278,13 @@
 - UHA 미각당 코로로 젤리 / UHA Mikakuto KORORO Gummy (일본) — 조사일 2026-06-11
 - 트레이더조 허니버터 캐슈 / Trader Joe's Honey Butter Cashews (미국) — 조사일 2026-06-11
 - 커클랜드 라즈베리 필드 쿠키 / Kirkland Signature Raspberry Filled Cookies (미국) — 조사일 2026-06-11
+- 이삭토스트 X 포켓몬 콜라보 시즌4 / Isaac Toast x Pokémon Season 4 (한국·일본) — 조사일 2026-06-11
+- 세븐일레븐 전남친 샌드위치 / 7-Eleven Jeon Namchin Sandwich 블루베리 크림치즈 (한국) — 조사일 2026-06-11
+- CU X 이삭토스트 RMR 콜라보 시리즈 7종 / CU x Isaac Toast RMR (한국) — 조사일 2026-06-11
+- 메고지고 두바이 찹쌀떡 3종 / MeGoJiGo Dubai Chapssal Tteok (한국) — 조사일 2026-06-11
+- 이스탄불 초콜릿 헤이즐넛 카다이프 / Istanbul Chocolate Hazelnut (튀르키예→한국) — 조사일 2026-06-11
+- GS25 아이스 크렘 브륄레 / GS25 Ice Crème Brûlée (한국) — 조사일 2026-06-11
+- 두바이 붕어빵 / Dubai Bungeoppang (한국) — 조사일 2026-06-11
+- 딜라이트 프로젝트 명인 찹쌀감자부각 / Delight Project Meister Chapssal Gamja Bugak (한국·올리브영) — 조사일 2026-06-11
+- 코스트코 프랑스 스타일 초콜릿 무스 / Costco French Style Chocolate Mousse (한국·벨기에) — 조사일 2026-06-11
+- 플립즈 밀크 초콜릿 프레첼 / Flipz Milk Chocolate Pretzel (미국→한국 올리브영) — 조사일 2026-06-11
