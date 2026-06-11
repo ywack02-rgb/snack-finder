@@ -187,3 +187,13 @@
 - 세이코마트 소프트아이스크림 / Seicomart Hokkaido Soft Cream (일본) — 조사일 2026-06-11
 - 트레이더조 만다린 오렌지 치킨 / Trader Joe's Mandarin Orange Chicken (미국) — 조사일 2026-06-11
 - 애니스 홈그로운 맥앤치즈 / Annie's Homegrown Mac & Cheese (미국) — 조사일 2026-06-11
+- 노브랜드 감자칩 vs 프링글스 OEM 말레이시아 마미 / No Brand Potato Chips vs Pringles (한국·말레이시아) — 조사일 2026-06-11
+- KALDI 멜론빵 스프레드 & 명란 스프레드 / カルディ 食パンスプレッド (일본) — 조사일 2026-06-11
+- GS25 X 플레이브 콜라보 빵 / PLAVE x GS25 (한국) — 조사일 2026-06-11
+- 대전 늑구빵 / 하레하레 빵집 (한국) — 조사일 2026-06-11
+- GS25 X 명일방주 엔드필드 콜라보 도시락·스낵 / Arknights Endfield x GS25 (한국) — 조사일 2026-06-11
+- 코스트코 핫도그 세트 41년 가격 동결 / Costco Hot Dog Combo (미국·한국) — 조사일 2026-06-11
+- 다이소 X 오징어게임 달고나 미니약과 / Daiso x Squid Game Dalgona Mini Yakgwa (한국) — 조사일 2026-06-11
+- 올리브영 딜라이트 프로젝트 저당 초콜릿 / Delight Project Low Sugar Chocolate (한국) — 조사일 2026-06-11
+- 코스트코 우유크림 롤케이크 / Costco Milk Cream Roll Cake (한국) — 조사일 2026-06-11
+- KALDI 칼디 모카 커피 젤리 / カルディ モカコーヒーゼリー (일본) — 조사일 2026-06-11
