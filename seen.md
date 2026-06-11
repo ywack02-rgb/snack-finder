@@ -237,3 +237,14 @@
 - CU x 텔레토비·포켓몬 화이트데이 콜라보 (한국) — 조사일 2026-06-11
 - 슈가버터샌드트리 / Sugar Butter Sand Tree (일본) — 조사일 2026-06-11
 - 코스트코 딸기 트라이플 / Costco Strawberry Trifle (한국) — 조사일 2026-06-11
+- 흑임자 라테·크루아상 / Black Sesame Latte & Croissant (한국·글로벌) — 조사일 2026-06-11
+- 간편식 떡볶이 로제·크림·마라 파생 / Instant Tteokbokki Variants (한국) — 조사일 2026-06-11
+- 메고지고 찹쌀 누룽지 팝스낵 / MeGoJiGo Chapssal Nurungji Pop Snack (한국) — 조사일 2026-06-11
+- 농심 누룽지팝 / Nongshim Nurungjipop (한국) — 조사일 2026-06-11
+- 오마카세 붕괴·집배달 수산물 파인다이닝 (한국) — 조사일 2026-06-11
+- 편의점 딸기 샌드위치 3사 전쟁 / CVS Strawberry Sandwich War (한국) — 조사일 2026-06-11
+- 꿀떡 시리얼 / Honey Rice Cake Cereal (한국) — 조사일 2026-06-11
+- 곤약밥·곤약 간식 / Konjac Rice & Snacks (한국) — 조사일 2026-06-11
+- 고단백 간편식 / High-Protein Convenience Food (한국) — 조사일 2026-06-11
+- 인절미 두쫀쿠 / Korean Injeolmi Dubai Cookie (한국) — 조사일 2026-06-11
+- 동원F&B 저당 열대과일 캔 / Dongwon Low-Sugar Fruit Can (한국) — 조사일 2026-06-11
