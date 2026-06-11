@@ -248,3 +248,13 @@
 - 고단백 간편식 / High-Protein Convenience Food (한국) — 조사일 2026-06-11
 - 인절미 두쫀쿠 / Korean Injeolmi Dubai Cookie (한국) — 조사일 2026-06-11
 - 동원F&B 저당 열대과일 캔 / Dongwon Low-Sugar Fruit Can (한국) — 조사일 2026-06-11
+- 트러플 오일 / Truffle Oil (이탈리아·글로벌) — 조사일 2026-06-11
+- 발사믹 식초 / Aceto Balsamico di Modena (이탈리아·한국) — 조사일 2026-06-11
+- 말차·抹茶 vs 가루녹차 (일본·한국) — 조사일 2026-06-11
+- 아스파탐 WHO 2B 논란 / Aspartame (글로벌·한국) — 조사일 2026-06-11
+- 스콜 / Skol (한국·해태유업→동원F&B) — 조사일 2026-06-11
+- 수제 버거 패티 진실 / Handmade Burger Patty (한국) — 조사일 2026-06-11
+- 현미 건강 신화 / Brown Rice Myth (한국) — 조사일 2026-06-11
+- 유기농·친환경 표시 혼동 / Organic Label Confusion (한국) — 조사일 2026-06-11
+- 코카콜라 라이프 / Coca-Cola Life (글로벌) — 조사일 2026-06-11
+- 꽃소금 / Flower Salt (한국) — 조사일 2026-06-11
