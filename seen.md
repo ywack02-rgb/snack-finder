@@ -217,3 +217,13 @@
 - 빙그레 투게더 / Binggrae Together (한국) — 조사일 2026-06-11
 - 크라운 산도 / Crown Sando (한국) — 조사일 2026-06-11
 - 해태 에이스 크래커 / Haitai Ace Cracker (한국) — 조사일 2026-06-11
+- 라라스윗 저당 팝콘 / Lalasweet Low-Sugar Popcorn (한국) — 조사일 2026-06-11
+- CU x 에스파 레모네이드 하이볼 / CU x aespa Lemonade Highball (한국) — 조사일 2026-06-11
+- GS25 x 여에스더 이너뷰티 샷 / GS25 x Yeo Aesther Inner Beauty Shot (한국) — 조사일 2026-06-11
+- 세븐일레븐 x NCT WISH 콜라보 / 7-Eleven x NCT WISH (한국) — 조사일 2026-06-11
+- KALDI 우유 생크림 스프레드 / カルディ ミルクスプレッド (일본) — 조사일 2026-06-11
+- 코스트코 망고 푸딩 신상 / Costco Korea Mango Pudding (한국) — 조사일 2026-06-11
+- 노브랜드 망고밥 스프링롤 / No Brand Mango Rice Spring Roll (한국·태국) — 조사일 2026-06-11
+- 코스트코 참치 타다키 + 유자폰즈 세트 / Costco Tuna Tataki + Yuzu Ponzu Set (한국) — 조사일 2026-06-11
+- 코스트코 초코 스퀘어 케이크 / Costco Choco Square Cake 6CT (한국) — 조사일 2026-06-11
+- 피코크 모짜렐라 비프 라자냐 / Peacock Mozzarella Beef Lasagna (한국) — 조사일 2026-06-11
