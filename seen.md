@@ -268,3 +268,13 @@
 - 배달의민족 2026 외식업 트렌드 빅데이터 1900만건 / Baemin 2026 Food Trend Big Data (한국) — 조사일 2026-06-11
 - 이마트24 두바이 스타일 10종 (카다이프 모찌·크림빵·마카롱) / Emart24 Dubai-Style 10-Item Series (한국) — 조사일 2026-06-11
 - 일본 로손 수플레 초콜릿 푸딩 / Lawson Choco Souffle Pudding (일본) — 조사일 2026-06-11
+- 페퍼리지팜 밀라노 쿠키 / Pepperidge Farm Milano Cookies (미국) — 조사일 2026-06-11
+- 커클랜드 통카츠 라멘 브로스 / Kirkland Signature Tonkotsu Ramen Broth (미국) — 조사일 2026-06-11
+- 트레이더조 한국식 포테이토 치즈 스틱 / Trader Joe's Korean-Style Potato Cheese Sticks (미국) — 조사일 2026-06-11
+- 브라미 프로틴 스파게티 / Brami Protein Spaghetti (미국) — 조사일 2026-06-11
+- 부르봉 알포트 / Bourbon Alfort Chocolate (일본) — 조사일 2026-06-11
+- 트레이더조 어니언 플라워스 / Trader Joe's Onion Flowers (미국) — 조사일 2026-06-11
+- 트레이더조 괴즐레메 / Trader Joe's Turkish Gözlemes (미국) — 조사일 2026-06-11
+- UHA 미각당 코로로 젤리 / UHA Mikakuto KORORO Gummy (일본) — 조사일 2026-06-11
+- 트레이더조 허니버터 캐슈 / Trader Joe's Honey Butter Cashews (미국) — 조사일 2026-06-11
+- 커클랜드 라즈베리 필드 쿠키 / Kirkland Signature Raspberry Filled Cookies (미국) — 조사일 2026-06-11
