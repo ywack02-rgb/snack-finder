@@ -288,3 +288,13 @@
 - 딜라이트 프로젝트 명인 찹쌀감자부각 / Delight Project Meister Chapssal Gamja Bugak (한국·올리브영) — 조사일 2026-06-11
 - 코스트코 프랑스 스타일 초콜릿 무스 / Costco French Style Chocolate Mousse (한국·벨기에) — 조사일 2026-06-11
 - 플립즈 밀크 초콜릿 프레첼 / Flipz Milk Chocolate Pretzel (미국→한국 올리브영) — 조사일 2026-06-11
+- 미국 불고기 플레이버 / Bulgogi Flavor Boom in US (한국→미국) — 조사일 2026-06-11
+- 스위시 핫허니 / Swicy Hot Honey (미국) — 조사일 2026-06-11
+- 바나나 브레드 라떼 / Banana Bread Latte (미국 뉴욕→글로벌) — 조사일 2026-06-11
+- 혼웰식 원보울 간편식 / Korean One Bowl Wellness Meal (한국) — 조사일 2026-06-11
+- 소버라이프 저알코올 음료 / Sober Life Low-ABV Drinks (한국) — 조사일 2026-06-11
+- 일본 편의점 벚꽃 디저트 3사 전쟁 / Japan CVS Sakura Dessert Wars (일본) — 조사일 2026-06-11
+- 코티지 치즈 고단백 파생 레시피 / Cottage Cheese Protein TikTok Trend (미국) — 조사일 2026-06-11
+- 피스타치오 크루아상 / Pistachio Croissant (글로벌→한국) — 조사일 2026-06-11
+- 사과식초 기능성 음료 / Apple Cider Vinegar Drink Revival (글로벌) — 조사일 2026-06-11
+- 에어프라이어 파스타 칩스 / Air Fryer Pasta Chips (미국 TikTok) — 조사일 2026-06-11
