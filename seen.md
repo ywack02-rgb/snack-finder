@@ -318,3 +318,13 @@
 - 제스티살룬 새우+와사비 버거 / Zesty Saloon Shrimp Wasabi Burger (한국) — 조사일 2026-06-12
 - 고추장 글로벌 스낵 부상 / Gochujang Global Snack Ingredient (한국→글로벌) — 조사일 2026-06-12
 - 버맥 트렌드 / Bumaek Burger Beer Culture (한국) — 조사일 2026-06-12
+- 농심 비29 / B29 (한국) — 조사일 2026-06-12
+- 오리온 치킨팝 / Orion Chicken Pop (한국) — 조사일 2026-06-12
+- 오뚜기 옛날참기름 / Ottogi Traditional Sesame Oil (한국) — 조사일 2026-06-12
+- 파이열매·파이노미 / パイの実·Pai no Mi (일본→한국) — 조사일 2026-06-12
+- 치토스 체스터쿵 / Cheetos Chester Kung (한국) — 조사일 2026-06-12
+- 홍어·엿·콩나물밥 테이스트 아틀라스 논란 / Korean Food Taste Atlas Controversy (한국) — 조사일 2026-06-12
+- 농심라면 60주년 재출시 / Nongshim Ramen 60th Anniversary Revival (한국) — 조사일 2026-06-12
+- 빠다코코낫 원조 논란 / Ppada Koconat Origin Controversy (한국·일본) — 조사일 2026-06-12
+- 해태 칸쵸 이름 새기기 / Haitai Kancho Name Engraving (한국) — 조사일 2026-06-12
+- 롯데 카스타드 모닝밀 재출시 / Lotte Custard Morning Meal Revival (한국) — 조사일 2026-06-12
