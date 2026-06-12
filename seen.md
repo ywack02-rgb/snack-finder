@@ -298,3 +298,13 @@
 - 피스타치오 크루아상 / Pistachio Croissant (글로벌→한국) — 조사일 2026-06-11
 - 사과식초 기능성 음료 / Apple Cider Vinegar Drink Revival (글로벌) — 조사일 2026-06-11
 - 에어프라이어 파스타 칩스 / Air Fryer Pasta Chips (미국 TikTok) — 조사일 2026-06-11
+- CU × 피스마이너스원 레드 하이볼 / Peace Minus One Red Highball (한국) — 조사일 2026-06-12
+- 신세계푸드 망고에 무너진 케이크 / Mango Cascade Cake (한국·이마트) — 조사일 2026-06-12
+- 피코크 × 런데이 초코 프로틴 그래놀라 / Peacock × Runnday Choco Protein Granola (한국) — 조사일 2026-06-12
+- 딜라이트 프로젝트 리얼피자 베이글칩 / Delight Project Real Pizza Bagel Chips (한국·올리브영) — 조사일 2026-06-12
+- 스타벅스 코리아 × 토이스토리5 콜라보 / Starbucks Korea × Toy Story 5 (한국) — 조사일 2026-06-12
+- 세븐일레븐 앙리마티스 와인볼 / 7-Eleven Henri Matisse Wine Highball (한국·프랑스) — 조사일 2026-06-12
+- CU 치킨 아이스크림 / CU Chicken Ice Cream (한국) — 조사일 2026-06-12
+- 배스킨라빈스 우디 후르츠 어드벤처·버즈 애플 리치 빔 / Baskin-Robbins × Toy Story 5 (한국) — 조사일 2026-06-12
+- GS25 과일 모양 프로즌 소르베 아이스크림 / GS25 Fruit-Shaped Frozen Sorbet (한국) — 조사일 2026-06-12
+- GS25 당근 모양 아이스크림 / GS25 Carrot-Shaped Ice Cream (한국) — 조사일 2026-06-12
