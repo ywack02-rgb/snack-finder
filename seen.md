@@ -308,3 +308,13 @@
 - 배스킨라빈스 우디 후르츠 어드벤처·버즈 애플 리치 빔 / Baskin-Robbins × Toy Story 5 (한국) — 조사일 2026-06-12
 - GS25 과일 모양 프로즌 소르베 아이스크림 / GS25 Fruit-Shaped Frozen Sorbet (한국) — 조사일 2026-06-12
 - GS25 당근 모양 아이스크림 / GS25 Carrot-Shaped Ice Cream (한국) — 조사일 2026-06-12
+- 저당 꿀배 XO야쿠르트 / Low-Sugar Honey Pear XO Yakult (메가MGC커피 × hy, 한국) — 조사일 2026-06-12
+- 버거킹 한국 2위 역전 서사 / Burger King Korea Overtakes Lotteria (한국) — 조사일 2026-06-12
+- 모델로 에스페셜 / Modelo Especial (멕시코→이마트24, 한국) — 조사일 2026-06-12
+- 배민 한 그릇 서비스 & 컵푸드 파생 / Baemin Single Bowl & Cup Food (한국) — 조사일 2026-06-12
+- 메가MGC커피 버터가 쫀득해떡 / Mega MGC Butter Ssottteokhaetteok (한국) — 조사일 2026-06-12
+- 스타벅스 차이 티 라떼 재출시 / Starbucks Chai Tea Latte Revival (한국) — 조사일 2026-06-12
+- 딸기모찌 / 생딸기 통째 찹쌀떡 (한국 카페) — 조사일 2026-06-12
+- 제스티살룬 새우+와사비 버거 / Zesty Saloon Shrimp Wasabi Burger (한국) — 조사일 2026-06-12
+- 고추장 글로벌 스낵 부상 / Gochujang Global Snack Ingredient (한국→글로벌) — 조사일 2026-06-12
+- 버맥 트렌드 / Bumaek Burger Beer Culture (한국) — 조사일 2026-06-12
